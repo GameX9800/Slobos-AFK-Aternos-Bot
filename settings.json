@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "24/7",
+    "username": "Volatile_SMP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "HeavenPixel.aternos.me",
-    "port": 41604,
+    "ip": "VolatileeSMP.aternos.me",
+    "port": 16678,
     "version": "1.21.11"
   },
   "position": {
